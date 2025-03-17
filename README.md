@@ -1,7 +1,9 @@
 # TP - Partie 1
 
 Sources :
+
 https://paperswithcode.com/dataset/conll-2003
+
 https://arxiv.org/pdf/cs/0306050v1
 
 1. Quelle type de tâche propose CoNLL 2003 ?
@@ -21,6 +23,6 @@ A améliorer la reconnaissance des entités nommées.
    
 16 systèmes ont été entraînés avec le corpus par 16 participants différents. Chacun utilisaient une combinaison différente de techniques de machine learning (HMM, MEM…).
 
-5.Est un corpus monolingue ou multilingue ?
+5. Est un corpus monolingue ou multilingue ?
 
 C’est un corpus multilingue anglais/allemand. 
